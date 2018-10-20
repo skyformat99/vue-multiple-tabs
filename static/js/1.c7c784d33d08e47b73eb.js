@@ -1,0 +1,2 @@
+webpackJsonp([1],{CmFY:function(t,e,s){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var i={mounted:function(){console.log(this.$route.meta.params)}},a={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"good-detail"},[e("h2",[this._v("我是组件GoodDetail.vue")]),this._v(" "),e("h3",[this._v("商品编号 "+this._s(this.$route.meta.params.id))])])},staticRenderFns:[]};var n=s("VU/8")(i,a,!1,function(t){s("K4VW")},"data-v-429d9382",null);e.default=n.exports},K4VW:function(t,e){}});
+//# sourceMappingURL=1.c7c784d33d08e47b73eb.js.map
